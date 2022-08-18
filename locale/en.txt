@@ -1,0 +1,77 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Pranavam Resort & Spa - Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E.label = Pranavam
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_0.label = BP3A9786-EditFacebook
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_1.label = 20BP3A9549101-EditFacebook
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_10.label = untitled-54Facebook
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_2.label = 20BP3A9874085Facebook
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_3.label = 20DJI_0403123Facebook
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_4.label = 20DJI_0568132-Edit-Edit-2Facebook
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_5.label = 20DJI_0594132Facebook
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_6.label = BP3A9733Facebook
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_7.label = BP3A9765-HDR-Edit-EditFacebook
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_8.label = untitled-11-EditFacebook
+album_9D55C5CC_96DB_BE41_41E1_8095D8E3671E_9.label = untitled-13-EditFacebook
+panorama_9858E71F_9208_F633_41E0_B3854611D93F.label = Duplex Room
+panorama_9858FCD0_920B_3A0D_41AA_F6B610869A2D.label = Duplex Room
+panorama_985918AA_9209_FA1D_41CB_19C04561D9FE.label = Premium Cottage
+panorama_98591BC3_9209_3E13_41DE_C0A7F92B7833.label = Facade
+panorama_98591F1E_9209_7635_41DA_C3161E10A7B5.label = Lobby
+panorama_98592679_9209_16FE_41E1_6DF848310186.label = Premium Cottage
+panorama_985931B0_9209_0A0D_41C3_1808B421BF4A.label = Restaurant
+panorama_98593A40_9209_3E0D_41B9_09D72A7FBF00.label = Balcony - Premium Cottage
+panorama_98593DB5_9209_1A77_41BC_48E7504D0FDB.label = Entrance
+panorama_98593F8E_9209_1615_41C0_B3F32849FA87.label = Washroom - Premium Cottage
+panorama_9859432C_9209_0E15_41D1_3CF8E4260181.label = Restaurant
+panorama_98595D6C_9209_7A15_41CC_36FE2F6D5EF9.label = Swimming Pool
+panorama_98596036_9209_0A75_41DB_C701D6C92EBD.label = Restaurant
+panorama_98597235_9209_0E77_41DD_74A2803AC17C.label = Dressing Area - Premium Cottage
+panorama_9859FA48_9209_1E1D_41BF_D4E17327E260.label = Premium Cottages
+panorama_985B0A19_920B_1E3F_41BC_04814B8B4655.label = Washroom - Duplex Room
+panorama_985F5F58_920B_163D_41DD_21839CE56F17.label = Duplex Room
+panorama_994A9FFC_920B_75F5_41D6_A36A24CDED45.label = Balcony - Duplex Room
+photo_9AB44350_96F6_FA40_41D0_BDA3D412A0B4.label = 20BP3A9865144Facebook
+photo_9AB44350_96F6_FA40_41D0_BDA3D412A0B4.label = 20BP3A9865144Facebook
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_82F6B2D0_920B_0E0D_4192_A5AD03EC1ADB.toolTip = Pool Area
+HotspotPanoramaOverlayArea_9CC511AB_9314_3010_41D1_7A79090C56E1.toolTip = Pool Area
+HotspotPanoramaOverlayArea_9D69690D_920B_FA17_41D7_DE7EBE6B128A.toolTip = Swimming Pool
+HotspotPanoramaOverlayArea_9D8036E8_9209_361D_41D1_335AFCA0ECC1.toolTip = Duplex Room
+HotspotPanoramaOverlayArea_9DA0A2B7_9209_0E73_41B7_EB935495F449.toolTip = Restaurant
+HotspotPanoramaOverlayArea_9DAAB2FE_9314_71F0_4197_D0707361488C.toolTip = Premium Cottages
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://pranavamresort.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://pranavamresort.com
